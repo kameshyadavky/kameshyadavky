@@ -31,9 +31,8 @@
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/kameshyadavky"><img src="https://img.shields.io/badge/-Kamesh%20Yadav%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/kameshyadavky" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/kameshayadavky
-/"><img src="https://img.shields.io/badge/-Kamesh Yadav-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/kameshyadavky" alt="Twitter Badge"></a>
+        <a href="https://linkedin.com/in/kameshyadavky"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+       <a href="https://x.com/kameshyadavky"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
    </p>
 
 
